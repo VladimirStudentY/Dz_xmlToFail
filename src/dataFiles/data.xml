@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff>             //персонал
+    <employee>      // сотрудник
+        <id>1</id>
+        <firstName>John</firstName> // имя
+        <lastName>Smith</lastName>   // фамилия
+        <country>USA</country>       // страна
+        <age>25</age>                // возраст
+    </employee>
+    <employee>
+        <id>2</id>
+        <firstName>Inav</firstName>
+        <lastName>Petrov</lastName>
+        <country>RU</country>
+        <age>23</age>
+    </employee>
+
+    <employee>
+        <id>3</id>
+        <firstName>Eduard</firstName>
+        <lastName>Kuzmin</lastName>
+        <country>RU</country>
+        <age>19</age>
+    </employee>
+</staff>
